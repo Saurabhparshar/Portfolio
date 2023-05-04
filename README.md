@@ -5,7 +5,7 @@ React js , Javascript
 
 ## Link of my portfolio
 
-https://www.google.com/saurabh-newportfolio.netlify.app/#/home
+https://saurabh-newportfolio.netlify.app/#/home
 
 ![opPortfolio](/images/portfolio.gif)
 
