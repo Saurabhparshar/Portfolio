@@ -1,5 +1,12 @@
 # Portfolio
 
+## Tech used
+React js , Javascript
+
+## Link of my portfolio
+
+https://www.google.com/saurabh-newportfolio.netlify.app/#/home
+
 ![opPortfolio](/images/portfolio.gif)
 
 ### A clean portfolio template.
